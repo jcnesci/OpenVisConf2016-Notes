@@ -130,7 +130,7 @@ Quote:
   - obviously knowledgeable, and was good to understand what she was after, but it was advanced enough so that it was a surface-level intro to field I knew nothing about. Good to know it exists, then.
 
 #### SVGs Beyond Mere Shapes 
-Nadieh Bremer ([@NadiehBremer](https://twitter.com/@NadiehBremer))
+> Nadieh Bremer ([@NadiehBremer](https://twitter.com/@NadiehBremer))
 
 - is data scientist and astronomer
 - http://www.visualcinnamon.com/
