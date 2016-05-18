@@ -11,10 +11,10 @@ https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
 
 ### Talks
 
-> _Legend_:  
-:eyes: = to look into more  
-:fire: = awesome!  
-:bulb: = future experiment idea  
+> _Legend_:
+:eyes: = to look into more
+:fire: = awesome!
+:bulb: = future experiment idea
 
 #### Seeing Machines Think
 > Fernanda Viégas ([@viegasf](https://twitter.com/@viegasf)) and Martin Wattenberg ([@wattenberg](https://twitter.com/wattenberg))
@@ -44,6 +44,7 @@ https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
   - very good intro to ML for a beginner like myself, chains well with Kyle's talk afterwards (good conf planning)
   - no complaints about the talk; clear, concise, speakers are knowledgeable, not boring
 
+---
 
 #### A Return to Machine Learning
 > Kyle McDonald ([@kcimc](https://twitter.com/kcimc))
@@ -62,11 +63,12 @@ https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
   3. Dimensionality Abstraction/Obstruction
     - uses word2vec
 
-:wink: __MY OPINION:__
+:blush: __MY OPINION:__
   - not as crazy and fast as I expected, pretty well-spoken, not really structured, but fun
   - I feel like this was fun at the time, but not very memorable; maybe because his stream-of-consciousness style isn't necessarily super education/didactic
   - inspiring and showed me new things, but didn't "learn" too much
 
+---
 
 #### Drawing on \<canvas> - how computers read pixels
 > Mariko Kosaka ([@kosamari](https://twitter.com/kosamari))
@@ -79,12 +81,13 @@ Quote:
 - whole talk = using \<canvas> to turn manipulate images (and their pixels), write image filters, export pixel data to do other stuff with (like mechanical knitting (not explained))
 - she's written many small JS libraries to manipulate images
 
-:sunglasses: __MY OPINION:__
+:blush: __MY OPINION:__
   - nice talk, knowledgeable about writing basic filters in the web and going between web/machines, interesting
   - I know she has given many other talks, perhaps some more focused on how to achieve the knitting thing, but this one seemed like a bit of a hodge-podge/collection of various little manipulations. That's not bad, but a little fragmented. Cool enough.
 
+---
 
-#### How To Simulate The Universe, In 134 Easy Steps 
+#### How To Simulate The Universe, In 134 Easy Steps
 > Nicky Case ([@ncasenmare](https://twitter.com/@ncasenmare))
 
 - [slides](http://ncase.me/OVC2016/)
@@ -104,17 +107,18 @@ Quote:
     - The Wire, especially 1st season: showing same story from different points of view
     - [Chris Ware, Building Stories (book)](http://www.amazon.com/Building-Stories-Pantheon-Graphic-Novels/dp/0375424334)
     - Vonnegut, Breakfast of Champions (book)
-  - Causal Loop Diagrams: 
+  - Causal Loop Diagrams:
     - [explaning the war on heroin](http://linchpin.org/site/wp-content/uploads/2012/12/Heroin-3.jpeg)
-  - Stock and Flow Models: 
+  - Stock and Flow Models:
     - [machine that illustrates the functioning of the economy](http://nzier.org.nz/about/monia-machine/)
   - Probability Simulations: see community notes
   - Agent-Based Modeling: see community notes
 
-:wink: __MY OPINION:__
+:blush: __MY OPINION:__
   - good social motives to his use of datavis, interesting theoritical backbone to his material (on systems theory) which was high-level but also seemed quite knowledgeable about
   - didn't learn any techniques, per se, but some good examples and leads for building experiences with narrativity and visual explanations of complex systems
 
+---
 
 #### Do you know Nothing when you see it?
 > Amelia McNamara
@@ -127,9 +131,11 @@ Quote:
 
 :open_mouth: __MY OPINION:__
   - showed advanced concepts I didn't totally follow
-  - obviously knowledgeable, and was good to understand what she was after, but it was advanced enough so that it was a surface-level intro to field I knew nothing about. Good to know it exists, then.
+  - obviously knowledgeable, and was good to understand what she was after, but it was advanced enough so that it was a surface-level intro to a field I knew nothing about. Good to know it exists, then.
 
-#### SVGs Beyond Mere Shapes 
+---
+
+#### SVGs Beyond Mere Shapes
 > Nadieh Bremer ([@NadiehBremer](https://twitter.com/@NadiehBremer))
 
 - is data scientist and astronomer
@@ -137,11 +143,12 @@ Quote:
 - talk = explaning how to use SVG gradients in D3.js, and SVG filters, and how that works in her beautiful datavis experiments
   - [motion blur](http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/), glow, gooey motion, blend modes (in CSS)
 
-:smirk: __MY OPINION:__
+:blush: __MY OPINION:__
   - the results of her experiments is really quite beautiful (good visual precendents for future projects :bulb:) but technically nothing special (I've done most of this myself already). Still, happy to be reminded of these possibilities.
 
+---
 
-#### Enhancing your maps and visualizations with WebGL GLSL Shaders 
+#### Enhancing your maps and visualizations with WebGL GLSL Shaders
 > Patricio Gonzalez Vivo
 
 - :eyes: [slides](http://patriciogonzalezvivo.github.io/openVis16/)
@@ -160,11 +167,12 @@ Quote:
   - https://github.com/tangrams/WeatherOverTime
 
 :heart_eyes: __MY OPINION:__
-  - amazing.
+  - amazing topic and tools
   - really bad accent (hard to understand)
 
+---
 
-#### Everything is Seasonal 
+#### Everything is Seasonal
 > Zan Armstrong
 
 - whole talk = how when comparing data from different time periods, you must be __very very__ careful about comparing equivalent time spans (problems of leap days, etc.) and considering the context (seasonality, culture, nature of data, etc.)
@@ -175,6 +183,40 @@ Quote:
 - very enthousiastic speaker, seems very competent with data math, too
 - very very niche subject, but is applicable when we display timeseries data, good warning
 
+---
 
+#### Building Data Visualizations for Product
+> Shirley Wu
+
+- works for Illumino, security firm, whole talk made actually talking to your client and figuring out their needs sound like amazing *__magic__* that no one had ever hear of (never heard of design school?)
+
+:rage: __MY OPINION:__
+  - super boring, baby-level content, can't believe she got invited to speak. Sorry.
+
+---
+
+#### Animation, Pacing, and Exposition
+> Tony Chu
+
+Quotes:
+> "Graphic Design is the use of SPACE to control TIME." :fire:
+> "I just blew your attention budget."
+(in reaction to dumping too much info at once in front of the user)
+
+- he's all about properly timing the presentation of bits of information to the user, not all at once, to explain an idea, step-by-step (sorta like 'scrolly-telling')
+- :eyes: his famous work: [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- :eyes: another: [http://letsfreecongress.org/](http://letsfreecongress.org/)
+- Explain your idea in small, easily assimilated chunks.
+  - Goal: Exposition
+  - Constraint: Attention
+  - Tactics: Animation & Pacing
+- it's all about how to __conserve this precious resource__ that is __attention__
+- [slides](https://docs.google.com/presentation/d/1GOSyl4-iklcO0kIBFy-31zylaLC1R3uTwxX89bWt5D0/edit?usp=sharing)
+
+:smile: __MY OPINION:__
+  - simple, clear talk about design principles for enabling focus, attention, explanation, in a world of too much data that is badly explained
+  - inspiring
+
+---
 
 
