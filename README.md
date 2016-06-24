@@ -40,7 +40,7 @@ https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
 
 :eyes: : play.tensorflow.org (was an internal tool @ Google)
 
-:smile: __MY OPINION:__
+__MY OPINION:__ :smile:
   - very good intro to ML for a beginner like myself, chains well with Kyle's talk afterwards (good conf planning)
   - no complaints about the talk; clear, concise, speakers are knowledgeable, not boring
 
@@ -63,7 +63,7 @@ https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
   3. Dimensionality Abstraction/Obstruction
     - uses word2vec
 
-:blush: __MY OPINION:__
+__MY OPINION:__ :simple_smile:
   - not as crazy and fast as I expected, pretty well-spoken, not really structured, but fun
   - I feel like this was fun at the time, but not very memorable; maybe because his stream-of-consciousness style isn't necessarily super education/didactic
   - inspiring and showed me new things, but didn't "learn" too much
@@ -81,7 +81,7 @@ Quote:
 - whole talk = using \<canvas> to turn manipulate images (and their pixels), write image filters, export pixel data to do other stuff with (like mechanical knitting (not explained))
 - she's written many small JS libraries to manipulate images
 
-:blush: __MY OPINION:__
+__MY OPINION:__ :simple_smile:
   - nice talk, knowledgeable about writing basic filters in the web and going between web/machines, interesting
   - I know she has given many other talks, perhaps some more focused on how to achieve the knitting thing, but this one seemed like a bit of a hodge-podge/collection of various little manipulations. That's not bad, but a little fragmented. Cool enough.
 
@@ -114,7 +114,7 @@ Quote:
   - Probability Simulations: see community notes
   - Agent-Based Modeling: see community notes
 
-:blush: __MY OPINION:__
+__MY OPINION:__ :simple_smile:
   - good social motives to his use of datavis, interesting theoritical backbone to his material (on systems theory) which was high-level but also seemed quite knowledgeable about
   - didn't learn any techniques, per se, but some good examples and leads for building experiences with narrativity and visual explanations of complex systems
 
@@ -129,7 +129,7 @@ Quote:
 - [mentioned science paper](http://stat.wharton.upenn.edu/~buja/PAPERS/Wickham-Cook-Hofmann-Buja-IEEE-TransVizCompGraphics_2010-Graphical%20Inference%20for%20Infovis.pdf)
 - see community notes for more details
 
-:open_mouth: __MY OPINION:__
+__MY OPINION:__ :open_mouth:
   - showed advanced concepts I didn't totally follow
   - obviously knowledgeable, and was good to understand what she was after, but it was advanced enough so that it was a surface-level intro to a field I knew nothing about. Good to know it exists, then.
 
@@ -143,7 +143,7 @@ Quote:
 - talk = explaning how to use SVG gradients in D3.js, and SVG filters, and how that works in her beautiful datavis experiments
   - [motion blur](http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/), glow, gooey motion, blend modes (in CSS)
 
-:blush: __MY OPINION:__
+__MY OPINION:__ :simple_smile:
   - the results of her experiments is really quite beautiful (good visual precendents for future projects :bulb:) but technically nothing special (I've done most of this myself already). Still, happy to be reminded of these possibilities.
 
 ---
@@ -166,7 +166,7 @@ Quote:
 - A more concise example of encoding data into images, prepared for the conf :fire: :fire: :fire:
   - https://github.com/tangrams/WeatherOverTime
 
-:heart_eyes: __MY OPINION:__
+__MY OPINION:__ :heart_eyes:
   - amazing topic and tools
   - really bad accent (hard to understand)
 
@@ -179,7 +179,7 @@ Quote:
 - __very technical__ explanations of analysis that can be done on data to correct/adjust it, [see her github](https://github.com/zanarmstrong/everything-is-seasonal)
 - see community notes for details
 
-:open_mouth: __MY OPINION:__
+__MY OPINION:__ :open_mouth:
 - very enthousiastic speaker, seems very competent with data math, too
 - very very niche subject, but is applicable when we display timeseries data, good warning
 
@@ -190,7 +190,7 @@ Quote:
 
 - works for Illumino, security firm, whole talk made actually talking to your client and figuring out their needs sound like amazing *__magic__* that no one had ever hear of (never heard of design school?)
 
-:rage: __MY OPINION:__
+__MY OPINION:__ :rage:
   - super boring, baby-level content, can't believe she got invited to speak. Sorry.
 
 ---
@@ -200,7 +200,9 @@ Quote:
 
 Quotes:
 > "Graphic Design is the use of SPACE to control TIME." :fire:
+
 > "I just blew your attention budget."
+
 (in reaction to dumping too much info at once in front of the user)
 
 - he's all about properly timing the presentation of bits of information to the user, not all at once, to explain an idea, step-by-step (sorta like 'scrolly-telling')
@@ -213,10 +215,55 @@ Quotes:
 - it's all about how to __conserve this precious resource__ that is __attention__
 - [slides](https://docs.google.com/presentation/d/1GOSyl4-iklcO0kIBFy-31zylaLC1R3uTwxX89bWt5D0/edit?usp=sharing)
 
-:smile: __MY OPINION:__
+__MY OPINION:__ :smile:
   - simple, clear talk about design principles for enabling focus, attention, explanation, in a world of too much data that is badly explained
   - inspiring
 
 ---
+
+#### Informing Without Alienating
+> Mona Chalabi
+
+- Worked for 538 ([Dear Mona](http://fivethirtyeight.com/tag/dear-mona/)), now The Guardian
+- Is about __"data journalism"__
+- Started using [Instagram](https://www.instagram.com/mona_chalabi/) for sharing dataviz (hand-drawn images)
+  - = great for seeing transparent debate, comments :fire:
+- Principles:
+  - Inclusivity: being inclusive with your data, making it understandable by the widest range of people
+  - Responsibility/Honesty: representing the reality, knowing _**WHY**_ your data is how it is (bias, etc)
+    - ex: a dataviz that shows the __uncertainty__ and __fallability__ of the data. [[1]](http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/) [[2]](http://truth-and-beauty.net/projects/ukko)
+  - Feeback: having open channels with your audience to check if your data is right
+
+__MY OPINION:__ :neutral_face:
+  - didn't learn much, but a little inspiring
+
+---
+
+#### Chartbuilder
+> David Yanofsky
+
+- built an auto-D3-chart-building webapp called [Chartbuilder](https://github.com/Quartz/Chartbuilder), for Quartz
+  - uses React and D3 (D4, actually)
+
+__MY OPINION:__ :neutral_face:
+  - simple, funny guy, doesn't seem technically super proficient (playing it cool?) but the tool is cool for D3 noobs or journalists/reporters that don't know coding
+
+---
+
+#### 39 studies on human perception in 30 minutes
+> Kennedy Elliott
+
+- is a perception researcher
+- [her own recap on her presentation](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.4im7uyv21)
+  - mentioned seminal perception study, at the root of all dataviz perception sutdies: Cleveland and McGill
+  - that study's findings were proven by Heer and Bostock using Mechanical Turk :fire:
+  - annotations skew the rememberence of a chart
+  - pie charts more accurate than barcharts, supposedly (?!)
+
+__MY OPINION:__ :simple_smile:
+  -
+
+
+
 
 
