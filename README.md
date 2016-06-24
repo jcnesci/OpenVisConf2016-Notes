@@ -63,7 +63,7 @@ __MY OPINION:__ :smile:
   3. Dimensionality Abstraction/Obstruction
     - uses word2vec
 
-__MY OPINION:__ :simple_smile:
+__MY OPINION:__ :blush:
   - not as crazy and fast as I expected, pretty well-spoken, not really structured, but fun
   - I feel like this was fun at the time, but not very memorable; maybe because his stream-of-consciousness style isn't necessarily super education/didactic
   - inspiring and showed me new things, but didn't "learn" too much
@@ -81,7 +81,7 @@ Quote:
 - whole talk = using \<canvas> to turn manipulate images (and their pixels), write image filters, export pixel data to do other stuff with (like mechanical knitting (not explained))
 - she's written many small JS libraries to manipulate images
 
-__MY OPINION:__ :simple_smile:
+__MY OPINION:__ :blush:
   - nice talk, knowledgeable about writing basic filters in the web and going between web/machines, interesting
   - I know she has given many other talks, perhaps some more focused on how to achieve the knitting thing, but this one seemed like a bit of a hodge-podge/collection of various little manipulations. That's not bad, but a little fragmented. Cool enough.
 
@@ -114,7 +114,7 @@ __MY OPINION:__ :simple_smile:
   - Probability Simulations: see community notes
   - Agent-Based Modeling: see community notes
 
-__MY OPINION:__ :simple_smile:
+__MY OPINION:__ :blush:
   - good social motives to his use of datavis, interesting theoritical backbone to his material (on systems theory) which was high-level but also seemed quite knowledgeable about
   - didn't learn any techniques, per se, but some good examples and leads for building experiences with narrativity and visual explanations of complex systems
 
@@ -143,7 +143,7 @@ __MY OPINION:__ :open_mouth:
 - talk = explaning how to use SVG gradients in D3.js, and SVG filters, and how that works in her beautiful datavis experiments
   - [motion blur](http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/), glow, gooey motion, blend modes (in CSS)
 
-__MY OPINION:__ :simple_smile:
+__MY OPINION:__ :blush:
   - the results of her experiments is really quite beautiful (good visual precendents for future projects :bulb:) but technically nothing special (I've done most of this myself already). Still, happy to be reminded of these possibilities.
 
 ---
@@ -245,7 +245,7 @@ __MY OPINION:__ :neutral_face:
 - built an auto-D3-chart-building webapp called [Chartbuilder](https://github.com/Quartz/Chartbuilder), for Quartz
   - uses React and D3 (D4, actually)
 
-__MY OPINION:__ :neutral_face:
+__MY OPINION:__ :confused:
   - simple, funny guy, doesn't seem technically super proficient (playing it cool?) but the tool is cool for D3 noobs or journalists/reporters that don't know coding
 
 ---
@@ -260,8 +260,160 @@ __MY OPINION:__ :neutral_face:
   - annotations skew the rememberence of a chart
   - pie charts more accurate than barcharts, supposedly (?!)
 
-__MY OPINION:__ :simple_smile:
-  -
+__MY OPINION:__ :blush:
+  - useful as a theory recap
+  - her pres was lightspeed and boring
+
+---
+
+#### Designing for Realtime Spacecraft Operations
+> Rachel Binx
+
+Quotes:
+> "Data visualization is not your creative outlet. Data visualization is making data understandable."
+
+
+- worked at JPL on datavis; initially thought it would be a dream job, then came down to earth and did very simple datavis with very complicated data streams
+- [great slides, 18 - 26](https://speakerdeck.com/binx/designing-for-spacecraft-operations?slide=18)
+  - where datavis fits between design and art (it's much closer to design)
+    - it can be placed anywhere in between, but probably:
+      - projects for work are closer to design
+      - project for fun are closer to art
+  - design solves problems / art creates problems
+- for JPL datavis, deliberately trying __NOT to tell a story__, create malleable tools to let users do their own exploration
+- __lessons from working @ JPL__
+  - know thy user
+  - visualization literacy takes time
+  - intuitive > shiny
+
+__MY OPINION:__ :smile:
+  - engaging, quirky speaker, fun to listen to
+  - a good wake-up call to stay grounded, remember what design is all about
+
+---
+
+#### Reactive Building Blocks: Interactive Visualizations with Vega
+> Arvind Satyanarayan
+
+- working on Vega with Jeff Heer, part of the University of Washington datavis clan
+- whole talk is showing the differences between D3 and Vega's interaction handling
+  - interaction model is better/faster/nicer to write in Vega
+  - with it, you _declaratively_ define interactivity
+  - Vega uses streams of events
+  - easy to handle different signal types for desktop and mobile
+  - [academic paper he wrote on this](http://idl.cs.washington.edu/files/2014-DeclarativeInteraction-UIST.pdf)
+- examples:
+  - [DimpVis](https://www.youtube.com/watch?v=DrLaYHzS9k8) by Christopher Collins @ UOIT
+  - https://sandbox.github.io/demos/nba-shot-chart-vega/
+- Links:
+  - https://vega.github.io/vega-editor
+  - http://vega.github.io/vega/
+
+__MY OPINION:__ :blush:
+  - Vega looks very cool, but hard to find a place for it in my process
+  - looks promising for the future (not yet that useful, maybe)
+
+---
+
+#### Tiny Tools
+> Adam Pearce
+
+- works at NYT, worked at Bloomberg before
+- made many little D3 tools to work faster, reuse code, customize
+- went thru all his code to find reusable bits and pieces, that's how he made his tools :fire:
+  - :eyes: For _scrolly-telling_: https://github.com/1wheel/graph-scroll
+  - :eyes: https://github.com/1wheel/d3-starterkit
+    - :bulb: I could fork this and add my own snippets!
+  - https://github.com/1wheel/swoopy-drag
+- :eyes: [cool old-school aesthetic applied to graphs](http://www.bloomberg.com/graphics/year-ahead-2016/)
+- :eyes: [other cool scrolling library by WSJ](https://github.com/WSJ/scroll-watcher)
+- [slides](https://t.co/pMBrWWmG1I)
+
+__MY OPINION:__ :blush:
+  - good pres, useful content, practical
+
+---
+
+#### The Visual Uncertainty Experience
+> Jessica Hullman
+
+- talk is about how we've displayed uncertainty in datavis, how we deal with probability statistics in datavis
+- interesting: [Galton and regression towards the mean](http://blog.minitab.com/blog/statistics-and-quality-data-analysis/so-why-is-it-called-regression-anyway)
+
+__MY OPINION:__ :neutral_face:
+  - interesting topic, not so interesting talk
+
+---
+
+#### Untangling Tennis
+> Kim Albrecht
+
+- talked about his [Untangling Tennis site](http://untangling-tennis.net/tool/)
+- is into high-density data, high-res visualizations
+  - his new work is about [Cosmic Web](http://cosmicweb.barabasilab.com/)
+
+__MY OPINION:__ :neutral_face:
+  - not so interesting, no take-aways
+
+---
+
+#### Our Planet Seen from Space
+> Christine Waigl
+
+- all about using satellite imagery/data for tools & social causes
+- there exists tons of __FREE__ satellite data!
+  - should we care?
+  - there's satellite imagery for:
+    - education
+    - social causes
+    - history
+    - etc...
+  - data from:
+    - [Sentinels](https://scihub.copernicus.eu/)
+    - [Landsat/USGS](http://landsat.usgs.gov/Landsat_Search_and_Download.php)
+    - [NASA Worldview](https://worldview.earthdata.nasa.gov/)
+    - etc...
+- examples
+  - :eyes: http://projects.propublica.org/louisiana/
+
+__MY OPINION:__ :blush:
+  - very passionate about her field, interesting person, lives in Alaska to be closer to wildfire epidemic and help with social causes (?)
+
+---
+
+#### Finding What to Read: Visual Text Analytics Tools and Techniques to Guide Investigation
+> Christopher Collins
+
+Quotes:
+> "Datavis won't replace reading the books, but it can tell you which books to read."
+
+- [is eminent datavis professor at UOIT, has research lab](http://vialab.science.uoit.ca/)
+- are we suffering from _information overload_?
+  - __NO__
+  - we lack good exploration tools, personalized tools for each purpose
+- complex projects he does with his students:
+  - http://www.cs.toronto.edu/~jianzhao/webapp/FluxFlow/fluxflow.html
+  - http://vialab.science.uoit.ca/wordsinpasswords/
+  - :eyes: http://www.lexichrome.com/
+
+__MY OPINION:__ :smile:
+  - great academic resource, good work & ideas coming out of his lab
+  - seems very smart and current on academic datavis world (as you might expect)
+
+---
+
+#### Designing Virtual Reality Data Visualizations
+> Ana Asnes Becker
+
+- young gun who made this [3D Nasdaq datavis](http://graphics.wsj.com/3d-nasdaq/)
+  - datavis + 3D + VR = the next frontier? :fire:
+  - she's not a technical person, she just had the idea
+  - made with D3.js and Three.js, [here's how](http://www.storybench.org/how-to-make-a-simple-virtual-reality-data-visualization/)
+  - that's almost all she talked about
+
+__MY OPINION:__ :neutral_face:
+  - interesting new idea
+  - first talk ever, so not best quality but who cares, everyone's tired at this point
 
 
 
