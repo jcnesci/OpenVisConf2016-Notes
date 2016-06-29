@@ -186,7 +186,7 @@ __MY OPINION:__ :open_mouth:
 ---
 
 #### Building Data Visualizations for Product
-> Shirley Wu
+> Shirley Wu ([@sxywu](https://twitter.com/sxywu))
 
 - works for Illumino, security firm, whole talk made actually talking to your client and figuring out their needs sound like amazing *__magic__* that no one had ever hear of (never heard of design school?)
 
