@@ -121,7 +121,7 @@ __MY OPINION:__ :blush:
 ---
 
 #### Do you know Nothing when you see it?
-> Amelia McNamara
+> Amelia McNamara ([@AmeliaMN](https://twitter.com/AmeliaMN))
 
 - is a statistics professor
 - mentions a free book about randomization techniques
@@ -149,7 +149,7 @@ __MY OPINION:__ :blush:
 ---
 
 #### Enhancing your maps and visualizations with WebGL GLSL Shaders
-> Patricio Gonzalez Vivo
+> Patricio Gonzalez Vivo ([@patriciogv](https://twitter.com/patriciogv))
 
 - :eyes: [slides](http://patriciogonzalezvivo.github.io/openVis16/)
 - works at [Mapzen](https://mapzen.com/) (all their tools are made opensource)
@@ -173,7 +173,7 @@ __MY OPINION:__ :heart_eyes:
 ---
 
 #### Everything is Seasonal
-> Zan Armstrong
+> Zan Armstrong ([@zanstrong](https://twitter.com/zanstrong))
 
 - whole talk = how when comparing data from different time periods, you must be __very very__ careful about comparing equivalent time spans (problems of leap days, etc.) and considering the context (seasonality, culture, nature of data, etc.)
 - __very technical__ explanations of analysis that can be done on data to correct/adjust it, [see her github](https://github.com/zanarmstrong/everything-is-seasonal)
@@ -196,7 +196,7 @@ __MY OPINION:__ :rage:
 ---
 
 #### Animation, Pacing, and Exposition
-> Tony Chu
+> Tony Chu ([@tonyhschu](https://twitter.com/tonyhschu))
 
 Quotes:
 > "Graphic Design is the use of SPACE to control TIME." :fire:
@@ -222,7 +222,7 @@ __MY OPINION:__ :smile:
 ---
 
 #### Informing Without Alienating
-> Mona Chalabi
+> Mona Chalabi ([MonaChalabi](https://twitter.com/MonaChalabi))
 
 - Worked for 538 ([Dear Mona](http://fivethirtyeight.com/tag/dear-mona/)), now The Guardian
 - Is about __"data journalism"__
@@ -240,7 +240,7 @@ __MY OPINION:__ :neutral_face:
 ---
 
 #### Chartbuilder
-> David Yanofsky
+> David Yanofsky ([@YAN0](https://twitter.com/YAN0))
 
 - built an auto-D3-chart-building webapp called [Chartbuilder](https://github.com/Quartz/Chartbuilder), for Quartz
   - uses React and D3 (D4, actually)
@@ -251,9 +251,9 @@ __MY OPINION:__ :confused:
 ---
 
 #### 39 studies on human perception in 30 minutes
-> Kennedy Elliott
+> Kennedy Elliott ([@kennelliott](https://twitter.com/kennelliott))
 
-- is a perception researcher
+- is a perception researcher, works at Washington Post
 - [her own recap on her presentation](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.4im7uyv21)
   - mentioned seminal perception study, at the root of all dataviz perception sutdies: Cleveland and McGill
   - that study's findings were proven by Heer and Bostock using Mechanical Turk :fire:
@@ -267,7 +267,7 @@ __MY OPINION:__ :blush:
 ---
 
 #### Designing for Realtime Spacecraft Operations
-> Rachel Binx
+> Rachel Binx ([@rachelbinx](https://twitter.com/rachelbinx))
 
 Quotes:
 > "Data visualization is not your creative outlet. Data visualization is making data understandable."
@@ -293,7 +293,7 @@ __MY OPINION:__ :smile:
 ---
 
 #### Reactive Building Blocks: Interactive Visualizations with Vega
-> Arvind Satyanarayan
+> Arvind Satyanarayan ([@arvindsatya1](https://twitter.com/arvindsatya1))
 
 - working on Vega with Jeff Heer, part of the University of Washington datavis clan
 - whole talk is showing the differences between D3 and Vega's interaction handling
@@ -316,7 +316,7 @@ __MY OPINION:__ :blush:
 ---
 
 #### Tiny Tools
-> Adam Pearce
+> Adam Pearce ([@adamrpearce](https://twitter.com/adamrpearce))
 
 - works at NYT, worked at Bloomberg before
 - made many little D3 tools to work faster, reuse code, customize
@@ -335,7 +335,7 @@ __MY OPINION:__ :blush:
 ---
 
 #### The Visual Uncertainty Experience
-> Jessica Hullman
+> Jessica Hullman ([@JessicaHullman](https://twitter.com/JessicaHullman))
 
 - talk is about how we've displayed uncertainty in datavis, how we deal with probability statistics in datavis
 - interesting: [Galton and regression towards the mean](http://blog.minitab.com/blog/statistics-and-quality-data-analysis/so-why-is-it-called-regression-anyway)
@@ -346,7 +346,7 @@ __MY OPINION:__ :neutral_face:
 ---
 
 #### Untangling Tennis
-> Kim Albrecht
+> Kim Albrecht ([@kimay](https://twitter.com/kimay))
 
 - talked about his [Untangling Tennis site](http://untangling-tennis.net/tool/)
 - is into high-density data, high-res visualizations
@@ -358,7 +358,7 @@ __MY OPINION:__ :neutral_face:
 ---
 
 #### Our Planet Seen from Space
-> Christine Waigl
+> Christine Waigl ([@chrys](https://twitter.com/chrys))
 
 - all about using satellite imagery/data for tools & social causes
 - there exists tons of __FREE__ satellite data!
@@ -382,7 +382,7 @@ __MY OPINION:__ :blush:
 ---
 
 #### Finding What to Read: Visual Text Analytics Tools and Techniques to Guide Investigation
-> Christopher Collins
+> Christopher Collins ([@ChrisNF](https://twitter.com/ChrisNF))
 
 Quotes:
 > "Datavis won't replace reading the books, but it can tell you which books to read."
@@ -403,7 +403,7 @@ __MY OPINION:__ :smile:
 ---
 
 #### Designing Virtual Reality Data Visualizations
-> Ana Asnes Becker
+> Ana Asnes Becker ([@ana_becker](https://twitter.com/ana_becker))
 
 - :eyes: young gun who made this [3D Nasdaq datavis](http://graphics.wsj.com/3d-nasdaq/)
   - datavis + 3D + VR = the next frontier? :fire:
