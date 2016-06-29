@@ -405,7 +405,7 @@ __MY OPINION:__ :smile:
 #### Designing Virtual Reality Data Visualizations
 > Ana Asnes Becker
 
-- young gun who made this [3D Nasdaq datavis](http://graphics.wsj.com/3d-nasdaq/)
+- :eyes: young gun who made this [3D Nasdaq datavis](http://graphics.wsj.com/3d-nasdaq/)
   - datavis + 3D + VR = the next frontier? :fire:
   - she's not a technical person, she just had the idea
   - made with D3.js and Three.js, [here's how](http://www.storybench.org/how-to-make-a-simple-virtual-reality-data-visualization/)
@@ -414,8 +414,3 @@ __MY OPINION:__ :smile:
 __MY OPINION:__ :neutral_face:
   - interesting new idea
   - first talk ever, so not best quality but who cares, everyone's tired at this point
-
-
-
-
-
