@@ -3,9 +3,11 @@
 Soso sent me to Boston for [OpenVis Conf](https://openvisconf.com/), in April 2016.
 Here are my notes.
 
-## Community notes of the talks
+__Community notes of the talks__
+- https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
 
-https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
+__Videos of the talks__
+- https://openvisconf.com/
 
 ## My notes
 
