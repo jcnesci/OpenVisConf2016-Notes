@@ -38,7 +38,7 @@ https://docs.google.com/document/d/104HDHnXz5G9VIKeG-03OVfTTtvi0c9q0DCMDCtHg3-k/
   - "Adverserial examples"
     - changing 1 pixel in a horse image makes the ML think it is now a truck!
 
-:eyes: : play.tensorflow.org (was an internal tool @ Google)
+:eyes: : http://playground.tensorflow.org/ (was an internal tool @ Google)
 
 __MY OPINION:__ :smile:
   - very good intro to ML for a beginner like myself, chains well with Kyle's talk afterwards (good conf planning)
